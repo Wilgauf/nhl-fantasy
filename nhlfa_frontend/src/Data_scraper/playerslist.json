@@ -1,0 +1,4387 @@
+[
+  {
+    "name": "Josh Jacobs",
+    "apiID": 8477972,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "P.K. Subban",
+    "apiID": 8474056,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Scott Wedgewood",
+    "apiID": 8475809,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Matt Tennyson",
+    "apiID": 8476807,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Ryan Murray",
+    "apiID": 8476850,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Damon Severson",
+    "apiID": 8476923,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Connor Carrick",
+    "apiID": 8476941,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Aaron Dell",
+    "apiID": 8477180,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Andreas Johnsson",
+    "apiID": 8477341,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Will Butcher",
+    "apiID": 8477355,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Miles Wood",
+    "apiID": 8477425,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Jonas Siegenthaler",
+    "apiID": 8478399,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Pavel Zacha",
+    "apiID": 8478401,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Mackenzie Blackwood",
+    "apiID": 8478406,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Nicholas Merkley",
+    "apiID": 8478447,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Jesper Bratt",
+    "apiID": 8479407,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Nathan Bastian",
+    "apiID": 8479414,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Michael McLeod",
+    "apiID": 8479415,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Janne Kuokkanen",
+    "apiID": 8479511,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Mikhail Maltsev",
+    "apiID": 8479573,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Nico Hischier",
+    "apiID": 8480002,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Jesper Boqvist",
+    "apiID": 8480003,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Ty Smith",
+    "apiID": 8480883,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Yegor Sharangovich",
+    "apiID": 8481068,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Jack Hughes",
+    "apiID": 8481559,
+    "team": "New Jersey Devils"
+  },
+  {
+    "name": "Anders Lee",
+    "apiID": 8475314,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Johnny Boychuk",
+    "apiID": 8470187,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Andrew Ladd",
+    "apiID": 8471217,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Thomas Hickey",
+    "apiID": 8474066,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Austin Czarnik",
+    "apiID": 8478512,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Kieffer Bellows",
+    "apiID": 8479356,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Braydon Coburn",
+    "apiID": 8470601,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Travis Zajac",
+    "apiID": 8471233,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Cory Schneider",
+    "apiID": 8471239,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Andy Greene",
+    "apiID": 8472382,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Leo Komarov",
+    "apiID": 8473463,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Cal Clutterbuck",
+    "apiID": 8473504,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Semyon Varlamov",
+    "apiID": 8473575,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Josh Bailey",
+    "apiID": 8474573,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Jordan Eberle",
+    "apiID": 8474586,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Matt Martin",
+    "apiID": 8474709,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Kyle Palmieri",
+    "apiID": 8475151,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Nick Leddy",
+    "apiID": 8475181,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Casey Cizikas",
+    "apiID": 8475231,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Brock Nelson",
+    "apiID": 8475754,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Jean-Gabriel Pageau",
+    "apiID": 8476419,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Scott Mayfield",
+    "apiID": 8476429,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Adam Pelech",
+    "apiID": 8476917,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Ryan Pulock",
+    "apiID": 8477506,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Ross Johnston",
+    "apiID": 8477527,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Michael Dal Colle",
+    "apiID": 8477936,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Ilya Sorokin",
+    "apiID": 8478009,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Mathew Barzal",
+    "apiID": 8478445,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Anthony Beauvillier",
+    "apiID": 8478463,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Sebastian Aho",
+    "apiID": 8480222,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Oliver Wahlstrom",
+    "apiID": 8480789,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Noah Dobson",
+    "apiID": 8480865,
+    "team": "New York Islanders"
+  },
+  {
+    "name": "Keith Kinkaid",
+    "apiID": 8476234,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Brendan Smith",
+    "apiID": 8474090,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Chris Kreider",
+    "apiID": 8475184,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Anthony Bitetto",
+    "apiID": 8475868,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Colin Blackwell",
+    "apiID": 8476278,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Ryan Strome",
+    "apiID": 8476458,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Mika Zibanejad",
+    "apiID": 8476459,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Phillip Di Giuseppe",
+    "apiID": 8476858,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Jacob Trouba",
+    "apiID": 8476885,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Pavel Buchnevich",
+    "apiID": 8477402,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Igor Shesterkin",
+    "apiID": 8478048,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Artemi Panarin",
+    "apiID": 8478550,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Kevin Rooney",
+    "apiID": 8479291,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Adam Fox",
+    "apiID": 8479323,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Ryan Lindgren",
+    "apiID": 8479324,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Julien Gauthier",
+    "apiID": 8479328,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Libor Hajek",
+    "apiID": 8479333,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Brett Howden",
+    "apiID": 8479353,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Filip Chytil",
+    "apiID": 8480078,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Alexandar Georgiev",
+    "apiID": 8480382,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "K'Andre Miller",
+    "apiID": 8480817,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Vitali Kravtsov",
+    "apiID": 8480833,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Kaapo Kakko",
+    "apiID": 8481554,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Zac Jones",
+    "apiID": 8481708,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Alexis Lafrenière",
+    "apiID": 8482109,
+    "team": "New York Rangers"
+  },
+  {
+    "name": "Morgan Frost",
+    "apiID": 8480028,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Brian Elliott",
+    "apiID": 8470880,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Claude Giroux",
+    "apiID": 8473512,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Justin Braun",
+    "apiID": 8474027,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "James van Riemsdyk",
+    "apiID": 8474037,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Jakub Voracek",
+    "apiID": 8474161,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Kevin Hayes",
+    "apiID": 8475763,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Sean Couturier",
+    "apiID": 8476461,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Scott Laughton",
+    "apiID": 8476872,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Shayne Gostisbehere",
+    "apiID": 8476906,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Robert Hagg",
+    "apiID": 8477462,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Samuel Morin",
+    "apiID": 8477502,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Travis Sanheim",
+    "apiID": 8477948,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Nicolas Aube-Kubel",
+    "apiID": 8477979,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Oskar Lindblom",
+    "apiID": 8478067,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Felix Sandstrom",
+    "apiID": 8478433,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Travis Konecny",
+    "apiID": 8478439,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Ivan Provorov",
+    "apiID": 8478500,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Philippe Myers",
+    "apiID": 8479026,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Alex Lyon",
+    "apiID": 8479312,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Wade Allison",
+    "apiID": 8479322,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Carsen Twarynski",
+    "apiID": 8479358,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Carter Hart",
+    "apiID": 8479394,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Tanner Laczynski",
+    "apiID": 8479550,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Nolan Patrick",
+    "apiID": 8479974,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Joel Farabee",
+    "apiID": 8480797,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Jackson Cates",
+    "apiID": 8482654,
+    "team": "Philadelphia Flyers"
+  },
+  {
+    "name": "Evgeni Malkin",
+    "apiID": 8471215,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Brandon Tanev",
+    "apiID": 8479293,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Yannick Weber",
+    "apiID": 8474134,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Anthony Angello",
+    "apiID": 8478074,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Juuso Riikola",
+    "apiID": 8480945,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Emil Larmi",
+    "apiID": 8481643,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Drew O'Connor",
+    "apiID": 8482055,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Jeff Carter",
+    "apiID": 8470604,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Sidney Crosby",
+    "apiID": 8471675,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Kris Letang",
+    "apiID": 8471724,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Colton Sceviour",
+    "apiID": 8474098,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Brian Dumoulin",
+    "apiID": 8475208,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Jason Zucker",
+    "apiID": 8475722,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Bryan Rust",
+    "apiID": 8475810,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Mark Jankowski",
+    "apiID": 8476873,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Mike Matheson",
+    "apiID": 8476875,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Cody Ceci",
+    "apiID": 8476879,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Teddy Blueger",
+    "apiID": 8476927,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Chad Ruhwedel",
+    "apiID": 8477244,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Jake Guentzel",
+    "apiID": 8477404,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Tristan Jarry",
+    "apiID": 8477465,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Frederick Gaudreau",
+    "apiID": 8477919,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Kasperi Kapanen",
+    "apiID": 8477953,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Jared McCann",
+    "apiID": 8477955,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Marcus Pettersson",
+    "apiID": 8477969,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Mark Friedman",
+    "apiID": 8478017,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Sam Lafferty",
+    "apiID": 8478043,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "John Marino",
+    "apiID": 8478507,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Evan Rodrigues",
+    "apiID": 8478542,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Casey DeSmith",
+    "apiID": 8479193,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Zach Aston-Reese",
+    "apiID": 8479944,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "Radim Zohorna",
+    "apiID": 8482241,
+    "team": "Pittsburgh Penguins"
+  },
+  {
+    "name": "John Moore",
+    "apiID": 8475186,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Ondrej Kase",
+    "apiID": 8478131,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Brandon Carlo",
+    "apiID": 8478443,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Patrice Bergeron",
+    "apiID": 8470638,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Jaroslav Halak",
+    "apiID": 8470860,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "David Krejci",
+    "apiID": 8471276,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Tuukka Rask",
+    "apiID": 8471695,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Brad Marchand",
+    "apiID": 8473419,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Craig Smith",
+    "apiID": 8475225,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Charlie Coyle",
+    "apiID": 8475745,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Chris Wagner",
+    "apiID": 8475780,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Taylor Hall",
+    "apiID": 8475791,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Jarred Tinordi",
+    "apiID": 8475797,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Kevan Miller",
+    "apiID": 8476191,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Sean Kuraly",
+    "apiID": 8476374,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Mike Reilly",
+    "apiID": 8476422,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Matt Grzelcyk",
+    "apiID": 8476891,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Anton Blidh",
+    "apiID": 8477320,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Connor Clifton",
+    "apiID": 8477365,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Curtis Lazar",
+    "apiID": 8477508,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Nick Ritchie",
+    "apiID": 8477941,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "David Pastrnak",
+    "apiID": 8477956,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Jakub Zboril",
+    "apiID": 8478415,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Jeremy Lauzon",
+    "apiID": 8478468,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Jake DeBrusk",
+    "apiID": 8478498,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Charlie McAvoy",
+    "apiID": 8479325,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Jeremy Swayman",
+    "apiID": 8480280,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Karson Kuhlman",
+    "apiID": 8480901,
+    "team": "Boston Bruins"
+  },
+  {
+    "name": "Zemgus Girgensons",
+    "apiID": 8476878,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Jake McCabe",
+    "apiID": 8476931,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Jack Eichel",
+    "apiID": 8478403,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Brandon Davidson",
+    "apiID": 8475869,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Michael Houser",
+    "apiID": 8475920,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Steven Fogarty",
+    "apiID": 8476396,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Jean-Sebastien Dea",
+    "apiID": 8477520,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Kyle Okposo",
+    "apiID": 8473449,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Dustin Tokarski",
+    "apiID": 8474682,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Cody Eakin",
+    "apiID": 8475236,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Carter Hutton",
+    "apiID": 8475622,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Matt Irwin",
+    "apiID": 8475625,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Riley Sheahan",
+    "apiID": 8475772,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Jeff Skinner",
+    "apiID": 8475784,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Tobias Rieder",
+    "apiID": 8476356,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Colin Miller",
+    "apiID": 8476525,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Linus Ullmark",
+    "apiID": 8476999,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Rasmus Ristolainen",
+    "apiID": 8477499,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Sam Reinhart",
+    "apiID": 8477933,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Anders Bjork",
+    "apiID": 8478075,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Victor Olofsson",
+    "apiID": 8478109,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "William Borgen",
+    "apiID": 8478840,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Rasmus Asplund",
+    "apiID": 8479335,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Tage Thompson",
+    "apiID": 8479420,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Drake Caggiula",
+    "apiID": 8479465,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Casey Mittelstadt",
+    "apiID": 8479999,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Henri Jokiharju",
+    "apiID": 8480035,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Ukko-Pekka Luukkonen",
+    "apiID": 8480045,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Jacob Bryson",
+    "apiID": 8480196,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Mattias Samuelsson",
+    "apiID": 8480807,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Rasmus Dahlin",
+    "apiID": 8480839,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Dylan Cozens",
+    "apiID": 8481528,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Arttu Ruotsalainen",
+    "apiID": 8481626,
+    "team": "Buffalo Sabres"
+  },
+  {
+    "name": "Brendan Gallagher",
+    "apiID": 8475848,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Michael Frolik",
+    "apiID": 8473564,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Xavier Ouellet",
+    "apiID": 8476443,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Jake Evans",
+    "apiID": 8478133,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Charlie Lindgren",
+    "apiID": 8479292,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Cole Caufield",
+    "apiID": 8481540,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Eric Staal",
+    "apiID": 8470595,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Corey Perry",
+    "apiID": 8470621,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Shea Weber",
+    "apiID": 8470642,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Carey Price",
+    "apiID": 8471679,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Jeff Petry",
+    "apiID": 8473507,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Paul Byron",
+    "apiID": 8474038,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Jake Allen",
+    "apiID": 8474596,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Tomas Tatar",
+    "apiID": 8475193,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Ben Chiarot",
+    "apiID": 8475279,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Tyler Toffoli",
+    "apiID": 8475726,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Jon Merrill",
+    "apiID": 8475750,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Joel Edmundson",
+    "apiID": 8476441,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Joel Armia",
+    "apiID": 8476469,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Phillip Danault",
+    "apiID": 8476479,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Brett Kulak",
+    "apiID": 8476967,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Erik Gustafsson",
+    "apiID": 8476979,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Josh Anderson",
+    "apiID": 8476981,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Artturi Lehkonen",
+    "apiID": 8477476,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Jonathan Drouin",
+    "apiID": 8477494,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Nick Suzuki",
+    "apiID": 8480018,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Cayden Primeau",
+    "apiID": 8480051,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Jesperi Kotkaniemi",
+    "apiID": 8480829,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Alexander Romanov",
+    "apiID": 8481014,
+    "team": "Montréal Canadiens"
+  },
+  {
+    "name": "Derek Stepan",
+    "apiID": 8474613,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Austin Watson",
+    "apiID": 8475766,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Joey Daccord",
+    "apiID": 8478916,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Micheal Haley",
+    "apiID": 8474230,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Artem Anisimov",
+    "apiID": 8473573,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Evgenii Dadonov",
+    "apiID": 8474149,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Ryan Dzingel",
+    "apiID": 8476288,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Anton Forsberg",
+    "apiID": 8476341,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Matt Murray",
+    "apiID": 8476899,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Chris Tierney",
+    "apiID": 8476919,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Connor Brown",
+    "apiID": 8477015,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Josh Brown",
+    "apiID": 8477384,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Marcus Hogberg",
+    "apiID": 8477405,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Nick Paul",
+    "apiID": 8477426,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Michael Amadio",
+    "apiID": 8478020,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Colin White",
+    "apiID": 8478400,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Thomas Chabot",
+    "apiID": 8478469,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Victor Mete",
+    "apiID": 8479376,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Nikita Zaitsev",
+    "apiID": 8479458,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Josh Norris",
+    "apiID": 8480064,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Erik Brannstrom",
+    "apiID": 8480073,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Drake Batherson",
+    "apiID": 8480208,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Brady Tkachuk",
+    "apiID": 8480801,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Jacob Bernard-Docker",
+    "apiID": 8480879,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Shane Pinto",
+    "apiID": 8481596,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Tim Stützle",
+    "apiID": 8482116,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Artem Zub",
+    "apiID": 8482245,
+    "team": "Ottawa Senators"
+  },
+  {
+    "name": "Riley Nash",
+    "apiID": 8474062,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Frederik Andersen",
+    "apiID": 8475883,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Scott Sabourin",
+    "apiID": 8477149,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Joe Thornton",
+    "apiID": 8466138,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Jason Spezza",
+    "apiID": 8469455,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Nick Foligno",
+    "apiID": 8473422,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Jake Muzzin",
+    "apiID": 8474162,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Wayne Simmonds",
+    "apiID": 8474190,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Zach Bogosian",
+    "apiID": 8474567,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "TJ Brodie",
+    "apiID": 8474673,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "John Tavares",
+    "apiID": 8475166,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Justin Holl",
+    "apiID": 8475718,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Zach Hyman",
+    "apiID": 8475786,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Jack Campbell",
+    "apiID": 8475789,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Alex Galchenyuk",
+    "apiID": 8476851,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Morgan Rielly",
+    "apiID": 8476853,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Ben Hutton",
+    "apiID": 8477018,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Alexander Kerfoot",
+    "apiID": 8477021,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "William Nylander",
+    "apiID": 8477939,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Pierre Engvall",
+    "apiID": 8478115,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Travis Dermott",
+    "apiID": 8478408,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Mitchell Marner",
+    "apiID": 8478483,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Auston Matthews",
+    "apiID": 8479318,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "David Rittich",
+    "apiID": 8479496,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Rasmus Sandin",
+    "apiID": 8480873,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Nicholas Robertson",
+    "apiID": 8481582,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Ilya Mikheyev",
+    "apiID": 8481624,
+    "team": "Toronto Maple Leafs"
+  },
+  {
+    "name": "Teuvo Teravainen",
+    "apiID": 8476882,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "James Reimer",
+    "apiID": 8473503,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Jordan Staal",
+    "apiID": 8473533,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Jake Gardiner",
+    "apiID": 8474581,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Nino Niederreiter",
+    "apiID": 8475799,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Jani Hakanpaa",
+    "apiID": 8475825,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Petr Mrazek",
+    "apiID": 8475852,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Jesper Fast",
+    "apiID": 8475855,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Vincent Trocheck",
+    "apiID": 8476389,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Dougie Hamilton",
+    "apiID": 8476462,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Brady Skjei",
+    "apiID": 8476869,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Jordan Martinook",
+    "apiID": 8476921,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Brock McGinn",
+    "apiID": 8476934,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Jaccob Slavin",
+    "apiID": 8476958,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Cedric Paquette",
+    "apiID": 8476975,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Joakim Ryan",
+    "apiID": 8477046,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Brett Pesce",
+    "apiID": 8477488,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Alex Nedeljkovic",
+    "apiID": 8477968,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Warren Foegele",
+    "apiID": 8477998,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Sebastian Aho",
+    "apiID": 8478427,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Steven Lorentz",
+    "apiID": 8478904,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Morgan Geekie",
+    "apiID": 8479987,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Martin Necas",
+    "apiID": 8480039,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Andrei Svechnikov",
+    "apiID": 8480830,
+    "team": "Carolina Hurricanes"
+  },
+  {
+    "name": "Aaron Ekblad",
+    "apiID": 8477932,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Kevin Connauton",
+    "apiID": 8475246,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Scott Wilson",
+    "apiID": 8476293,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Philippe Desrosiers",
+    "apiID": 8477475,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Cole Schwindt",
+    "apiID": 8481655,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Keith Yandle",
+    "apiID": 8471735,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Anton Stralman",
+    "apiID": 8471873,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Patric Hornqvist",
+    "apiID": 8471887,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Radko Gudas",
+    "apiID": 8475462,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Sergei Bobrovsky",
+    "apiID": 8475683,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Jonathan Huberdeau",
+    "apiID": 8476456,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Chris Driedger",
+    "apiID": 8476904,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Nikita Gusev",
+    "apiID": 8477038,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "MacKenzie Weegar",
+    "apiID": 8477346,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Anthony Duclair",
+    "apiID": 8477407,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Carter Verhaeghe",
+    "apiID": 8477409,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Aleksander Barkov",
+    "apiID": 8477493,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Alex Wennberg",
+    "apiID": 8477505,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Sam Bennett",
+    "apiID": 8477935,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Brandon Montour",
+    "apiID": 8477986,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Juho Lammikko",
+    "apiID": 8477996,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Lucas Wallmark",
+    "apiID": 8478027,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Gustav Forsling",
+    "apiID": 8478055,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Frank Vatrano",
+    "apiID": 8478366,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Noel Acciari",
+    "apiID": 8478569,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Markus Nutivaara",
+    "apiID": 8478906,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Mason Marchment",
+    "apiID": 8478975,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Ryan Lomberg",
+    "apiID": 8479066,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Owen Tippett",
+    "apiID": 8480015,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Eetu Luostarinen",
+    "apiID": 8480185,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Spencer Knight",
+    "apiID": 8481519,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Matt Kiersted",
+    "apiID": 8482641,
+    "team": "Florida Panthers"
+  },
+  {
+    "name": "Steven Stamkos",
+    "apiID": 8474564,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Jan Rutta",
+    "apiID": 8480172,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Fredrik Claesson",
+    "apiID": 8476368,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Christopher Gibson",
+    "apiID": 8476444,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Ben Thomas",
+    "apiID": 8478049,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Daniel Walcott",
+    "apiID": 8478069,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Cal Foote",
+    "apiID": 8479984,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Curtis McElhinney",
+    "apiID": 8470147,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Alex Killorn",
+    "apiID": 8473986,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Pat Maroon",
+    "apiID": 8474034,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Ryan McDonagh",
+    "apiID": 8474151,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Luke Schenn",
+    "apiID": 8474568,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Tyler Johnson",
+    "apiID": 8474870,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Victor Hedman",
+    "apiID": 8475167,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "David Savard",
+    "apiID": 8475233,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Ondrej Palat",
+    "apiID": 8476292,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Blake Coleman",
+    "apiID": 8476399,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Barclay Goodrow",
+    "apiID": 8476624,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Yanni Gourde",
+    "apiID": 8476826,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Andrei Vasilevskiy",
+    "apiID": 8476883,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Brayden Point",
+    "apiID": 8478010,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Erik Cernak",
+    "apiID": 8478416,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Mathieu Joseph",
+    "apiID": 8478472,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Mitchell Stephens",
+    "apiID": 8478477,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Anthony Cirelli",
+    "apiID": 8478519,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Mikhail Sergachev",
+    "apiID": 8479410,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Ross Colton",
+    "apiID": 8479525,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Alex Barre-Boulet",
+    "apiID": 8479718,
+    "team": "Tampa Bay Lightning"
+  },
+  {
+    "name": "Craig Anderson",
+    "apiID": 8467950,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Michal Kempny",
+    "apiID": 8479482,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Zdeno Chara",
+    "apiID": 8465009,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Alex Ovechkin",
+    "apiID": 8471214,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "T.J. Oshie",
+    "apiID": 8471698,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Nicklas Backstrom",
+    "apiID": 8473563,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Carl Hagelin",
+    "apiID": 8474176,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Lars Eller",
+    "apiID": 8474189,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "John Carlson",
+    "apiID": 8474590,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Justin Schultz",
+    "apiID": 8474602,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Dmitry Orlov",
+    "apiID": 8475200,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Nick Jensen",
+    "apiID": 8475324,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Nic Dowd",
+    "apiID": 8475343,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Brenden Dillon",
+    "apiID": 8475455,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Evgeny Kuznetsov",
+    "apiID": 8475744,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Tom Wilson",
+    "apiID": 8476880,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Michael Raffl",
+    "apiID": 8477290,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Anthony Mantha",
+    "apiID": 8477511,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Conor Sheary",
+    "apiID": 8477839,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Trevor van Riemsdyk",
+    "apiID": 8477845,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Garnet Hathaway",
+    "apiID": 8477903,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Vitek Vanecek",
+    "apiID": 8477970,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Daniel Sprong",
+    "apiID": 8478466,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Ilya Samsonov",
+    "apiID": 8478492,
+    "team": "Washington Capitals"
+  },
+  {
+    "name": "Brent Seabrook",
+    "apiID": 8470607,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Zack Smith",
+    "apiID": 8474250,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Andrew Shaw",
+    "apiID": 8476381,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Jonathan Toews",
+    "apiID": 8473604,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Alex Nylander",
+    "apiID": 8479423,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Duncan Keith",
+    "apiID": 8470281,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Patrick Kane",
+    "apiID": 8474141,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Calvin de Haan",
+    "apiID": 8475177,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Brett Connolly",
+    "apiID": 8475792,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Connor Murphy",
+    "apiID": 8476473,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Malcolm Subban",
+    "apiID": 8476876,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Vinnie Hinostroza",
+    "apiID": 8476994,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Dominik Kubalik",
+    "apiID": 8477330,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Nikita Zadorov",
+    "apiID": 8477507,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Ryan Carpenter",
+    "apiID": 8477846,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Dylan Strome",
+    "apiID": 8478440,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Adam Gaudette",
+    "apiID": 8478874,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Alex DeBrincat",
+    "apiID": 8479337,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Riley Stillman",
+    "apiID": 8479388,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Brandon Hagel",
+    "apiID": 8479542,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "David Kampf",
+    "apiID": 8480144,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Wyatt Kalynuk",
+    "apiID": 8480293,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Collin Delia",
+    "apiID": 8480420,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Pius Suter",
+    "apiID": 8480459,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Philipp Kurashev",
+    "apiID": 8480798,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Adam Boqvist",
+    "apiID": 8480871,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Kevin Lankinen",
+    "apiID": 8480947,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Kirby Dach",
+    "apiID": 8481523,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Mike Hardman",
+    "apiID": 8482635,
+    "team": "Chicago Blackhawks"
+  },
+  {
+    "name": "Bobby Ryan",
+    "apiID": 8471676,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Tyler Bertuzzi",
+    "apiID": 8477479,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Robby Fabbri",
+    "apiID": 8477952,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Valtteri Filppula",
+    "apiID": 8470047,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Frans Nielsen",
+    "apiID": 8470144,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Thomas Greiss",
+    "apiID": 8471306,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Marc Staal",
+    "apiID": 8471686,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Darren Helm",
+    "apiID": 8471794,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Alex Biega",
+    "apiID": 8473415,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Jonathan Bernier",
+    "apiID": 8473541,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Sam Gagner",
+    "apiID": 8474040,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Richard Panik",
+    "apiID": 8475209,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Vladislav Namestnikov",
+    "apiID": 8476480,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Luke Glendening",
+    "apiID": 8476822,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Christian Djoos",
+    "apiID": 8477043,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Danny DeKeyser",
+    "apiID": 8477215,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Adam Erne",
+    "apiID": 8477454,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Jakub Vrana",
+    "apiID": 8477944,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Dylan Larkin",
+    "apiID": 8477946,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Evgeny Svechnikov",
+    "apiID": 8478431,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Dennis Cholowski",
+    "apiID": 8479395,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Filip Hronek",
+    "apiID": 8479425,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Troy Stecher",
+    "apiID": 8479442,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Michael Rasmussen",
+    "apiID": 8479992,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Gustav Lindstrom",
+    "apiID": 8480184,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Filip Zadina",
+    "apiID": 8480821,
+    "team": "Detroit Red Wings"
+  },
+  {
+    "name": "Brad Richardson",
+    "apiID": 8470755,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Luca Sbisa",
+    "apiID": 8474579,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Mark Borowiecki",
+    "apiID": 8474697,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Filip Forsberg",
+    "apiID": 8476887,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Alexandre Carrier",
+    "apiID": 8478851,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Mathieu Olivier",
+    "apiID": 8479671,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Tyler Lewington",
+    "apiID": 8477343,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Michael McCarron",
+    "apiID": 8477446,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Kasimir Kaskisuo",
+    "apiID": 8479288,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Rem Pitlick",
+    "apiID": 8479514,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Philip Tomasino",
+    "apiID": 8481577,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Pekka Rinne",
+    "apiID": 8471469,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Roman Josi",
+    "apiID": 8474600,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Matt Duchene",
+    "apiID": 8475168,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Ryan Ellis",
+    "apiID": 8475176,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Mattias Ekholm",
+    "apiID": 8475218,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Erik Haula",
+    "apiID": 8475287,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Calle Jarnkrok",
+    "apiID": 8475714,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Erik Gudbranson",
+    "apiID": 8475790,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Ryan Johansen",
+    "apiID": 8475793,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Mikael Granlund",
+    "apiID": 8475798,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Nick Cousins",
+    "apiID": 8476393,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Rocco Grimaldi",
+    "apiID": 8476428,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Colton Sissons",
+    "apiID": 8476925,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Matt Benning",
+    "apiID": 8476988,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Juuse Saros",
+    "apiID": 8477424,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Ben Harpur",
+    "apiID": 8477433,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Viktor Arvidsson",
+    "apiID": 8478042,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Yakov Trenin",
+    "apiID": 8478508,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Luke Kunin",
+    "apiID": 8479316,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Dante Fabbro",
+    "apiID": 8479371,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Jeremy Davies",
+    "apiID": 8479602,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Tanner Jeannot",
+    "apiID": 8479661,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Eeli Tolvanen",
+    "apiID": 8480009,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "David Farrance",
+    "apiID": 8480063,
+    "team": "Nashville Predators"
+  },
+  {
+    "name": "Carl Gunnarsson",
+    "apiID": 8474125,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Oskar Sundqvist",
+    "apiID": 8476897,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Mackenzie MacEachern",
+    "apiID": 8476907,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "David Perron",
+    "apiID": 8474102,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Robert Bortuzzo",
+    "apiID": 8474145,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Marco Scandella",
+    "apiID": 8474618,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Mike Hoffman",
+    "apiID": 8474884,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Tyler Bozak",
+    "apiID": 8475098,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Ryan O'Reilly",
+    "apiID": 8475158,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Kyle Clifford",
+    "apiID": 8475160,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Brayden Schenn",
+    "apiID": 8475170,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Justin Faulk",
+    "apiID": 8475753,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Vladimir Tarasenko",
+    "apiID": 8475765,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Jaden Schwartz",
+    "apiID": 8475768,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Jordan Binnington",
+    "apiID": 8476412,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Torey Krug",
+    "apiID": 8476792,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Colton Parayko",
+    "apiID": 8476892,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Zach Sanford",
+    "apiID": 8477482,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Ivan Barbashev",
+    "apiID": 8477964,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Jake Walman",
+    "apiID": 8478013,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Ville Husso",
+    "apiID": 8478024,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Sammy Blais",
+    "apiID": 8478104,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Vince Dunn",
+    "apiID": 8478407,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Niko Mikkola",
+    "apiID": 8478859,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Jordan Kyrou",
+    "apiID": 8479385,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Robert Thomas",
+    "apiID": 8480023,
+    "team": "St. Louis Blues"
+  },
+  {
+    "name": "Zac Rinaldo",
+    "apiID": 8474736,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Alexander Petrovic",
+    "apiID": 8475755,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Oliver Kylington",
+    "apiID": 8478430,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Dominik Simon",
+    "apiID": 8478866,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Adam Ruzicka",
+    "apiID": 8480008,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Artyom Zagidulin",
+    "apiID": 8481501,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Mark Giordano",
+    "apiID": 8470966,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Milan Lucic",
+    "apiID": 8473473,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Mikael Backlund",
+    "apiID": 8474150,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Jacob Markstrom",
+    "apiID": 8474593,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Michael Stone",
+    "apiID": 8474628,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Christopher Tanev",
+    "apiID": 8475690,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Joakim Nordstrom",
+    "apiID": 8475807,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Louis Domingue",
+    "apiID": 8475839,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Nikita Nesterov",
+    "apiID": 8476300,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Johnny Gaudreau",
+    "apiID": 8476346,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Josh Leivo",
+    "apiID": 8476410,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Brett Ritchie",
+    "apiID": 8476439,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Buddy Robinson",
+    "apiID": 8477210,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Elias Lindholm",
+    "apiID": 8477496,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Sean Monahan",
+    "apiID": 8477497,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Andrew Mangiapane",
+    "apiID": 8478233,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Noah Hanifin",
+    "apiID": 8478396,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Rasmus Andersson",
+    "apiID": 8478397,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Derek Ryan",
+    "apiID": 8478585,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Matthew Tkachuk",
+    "apiID": 8479314,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Dillon Dube",
+    "apiID": 8479346,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Juuso Valimaki",
+    "apiID": 8479976,
+    "team": "Calgary Flames"
+  },
+  {
+    "name": "Erik Johnson",
+    "apiID": 8473446,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Matt Calvert",
+    "apiID": 8474685,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Pavel Francouz",
+    "apiID": 8480925,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Logan O'Connor",
+    "apiID": 8481186,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Miikka Salomaki",
+    "apiID": 8476447,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Kyle Burroughs",
+    "apiID": 8477335,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Dan Renouf",
+    "apiID": 8479252,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Keaton Middleton",
+    "apiID": 8479387,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Adam Werner",
+    "apiID": 8479530,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Kiefer Sherwood",
+    "apiID": 8480748,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Bowen Byram",
+    "apiID": 8481524,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Peyton Jones",
+    "apiID": 8482402,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Devan Dubnyk",
+    "apiID": 8471227,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Carl Soderberg",
+    "apiID": 8471262,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Nazem Kadri",
+    "apiID": 8475172,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Patrik Nemeth",
+    "apiID": 8475747,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Joonas Donskoi",
+    "apiID": 8475820,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Philipp Grubauer",
+    "apiID": 8475831,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Brandon Saad",
+    "apiID": 8476438,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Gabriel Landeskog",
+    "apiID": 8476455,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Liam O'Brien",
+    "apiID": 8477070,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Ryan Graves",
+    "apiID": 8477435,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Andre Burakovsky",
+    "apiID": 8477444,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "J.T. Compher",
+    "apiID": 8477456,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Nathan MacKinnon",
+    "apiID": 8477492,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Valeri Nichushkin",
+    "apiID": 8477501,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Pierre-Edouard Bellemare",
+    "apiID": 8477930,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Jonas Johansson",
+    "apiID": 8477992,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Devon Toews",
+    "apiID": 8478038,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Mikko Rantanen",
+    "apiID": 8478420,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Tyson Jost",
+    "apiID": 8479370,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Samuel Girard",
+    "apiID": 8479398,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Jacob MacDonald",
+    "apiID": 8479439,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Conor Timmins",
+    "apiID": 8479982,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Cale Makar",
+    "apiID": 8480069,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Martin Kaut",
+    "apiID": 8480822,
+    "team": "Colorado Avalanche"
+  },
+  {
+    "name": "Slater Koekkoek",
+    "apiID": 8476886,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Kyle Turris",
+    "apiID": 8474068,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Tyler Ennis",
+    "apiID": 8474589,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Patrick Russell",
+    "apiID": 8479466,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Ryan McLeod",
+    "apiID": 8480802,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Evan Bouchard",
+    "apiID": 8480803,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Mike Smith",
+    "apiID": 8469608,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "James Neal",
+    "apiID": 8471707,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Kris Russell",
+    "apiID": 8471729,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Alex Stalock",
+    "apiID": 8471774,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Mikko Koskinen",
+    "apiID": 8475156,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Alex Chiasson",
+    "apiID": 8475163,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Zack Kassian",
+    "apiID": 8475178,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Dmitry Kulikov",
+    "apiID": 8475179,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Tyson Barrie",
+    "apiID": 8475197,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Josh Archibald",
+    "apiID": 8476326,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Ryan Nugent-Hopkins",
+    "apiID": 8476454,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Adam Larsson",
+    "apiID": 8476457,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Devin Shore",
+    "apiID": 8476913,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Jujhar Khaira",
+    "apiID": 8476915,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Darnell Nurse",
+    "apiID": 8477498,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Leon Draisaitl",
+    "apiID": 8477934,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "William Lagesson",
+    "apiID": 8478021,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Connor McDavid",
+    "apiID": 8478402,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Ethan Bear",
+    "apiID": 8478451,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Caleb Jones",
+    "apiID": 8478452,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Jesse Puljujarvi",
+    "apiID": 8479344,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Kailer Yamamoto",
+    "apiID": 8479977,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Dominik Kahun",
+    "apiID": 8480946,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Joakim Nygard",
+    "apiID": 8481638,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Gaetan Haas",
+    "apiID": 8481813,
+    "team": "Edmonton Oilers"
+  },
+  {
+    "name": "Jay Beagle",
+    "apiID": 8474291,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Justin Bailey",
+    "apiID": 8477473,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Elias Pettersson",
+    "apiID": 8480012,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Madison Bowey",
+    "apiID": 8477474,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Michael Dipietro",
+    "apiID": 8480022,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Alexander Edler",
+    "apiID": 8471303,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Brandon Sutter",
+    "apiID": 8474091,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Tyler Myers",
+    "apiID": 8474574,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Travis Hamonic",
+    "apiID": 8474612,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Braden Holtby",
+    "apiID": 8474651,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Antoine Roussel",
+    "apiID": 8474849,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Travis Boyd",
+    "apiID": 8476329,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "J.T. Miller",
+    "apiID": 8476468,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Tanner Pearson",
+    "apiID": 8476871,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Jimmy Vesey",
+    "apiID": 8476918,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Ashton Sautner",
+    "apiID": 8477085,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Nate Schmidt",
+    "apiID": 8477220,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Tyler Motte",
+    "apiID": 8477353,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Bo Horvat",
+    "apiID": 8477500,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Jake Virtanen",
+    "apiID": 8477937,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Jayce Hawryluk",
+    "apiID": 8477963,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Thatcher Demko",
+    "apiID": 8477967,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Matthew Highmore",
+    "apiID": 8478146,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Brock Boeser",
+    "apiID": 8478444,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Jalen Chatfield",
+    "apiID": 8478970,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Olli Juolevi",
+    "apiID": 8479355,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Zack MacEwen",
+    "apiID": 8479772,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Quinn Hughes",
+    "apiID": 8480800,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Nils Hoglander",
+    "apiID": 8481535,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Marc Michaelis",
+    "apiID": 8482063,
+    "team": "Vancouver Canucks"
+  },
+  {
+    "name": "Hampus Lindholm",
+    "apiID": 8476854,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Carter Rowney",
+    "apiID": 8477240,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Sonny Milano",
+    "apiID": 8477947,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Andrew Agozzino",
+    "apiID": 8475461,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Sam Carrick",
+    "apiID": 8475842,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Chase De Leo",
+    "apiID": 8478029,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Trevor Zegras",
+    "apiID": 8481533,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Ryan Miller",
+    "apiID": 8468011,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Ryan Getzlaf",
+    "apiID": 8470612,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Kevin Shattenkirk",
+    "apiID": 8474031,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Adam Henrique",
+    "apiID": 8474641,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Derek Grant",
+    "apiID": 8474683,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Jakob Silfverberg",
+    "apiID": 8475164,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Nicolas Deslauriers",
+    "apiID": 8475235,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Cam Fowler",
+    "apiID": 8475764,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Josh Manson",
+    "apiID": 8476312,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Andy Welinski",
+    "apiID": 8476407,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "John Gibson",
+    "apiID": 8476434,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Rickard Rakell",
+    "apiID": 8476483,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Anthony Stolarz",
+    "apiID": 8476932,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Haydn Fleury",
+    "apiID": 8477938,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Danton Heinen",
+    "apiID": 8478046,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Jacob Larsson",
+    "apiID": 8478491,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Troy Terry",
+    "apiID": 8478873,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Sam Steel",
+    "apiID": 8479351,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Max Jones",
+    "apiID": 8479368,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Max Comtois",
+    "apiID": 8480031,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Alexander Volkov",
+    "apiID": 8480186,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Isac Lundestrom",
+    "apiID": 8480806,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Jamie Drysdale",
+    "apiID": 8482142,
+    "team": "Anaheim Ducks"
+  },
+  {
+    "name": "Alexander Radulov",
+    "apiID": 8471228,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Joel Kiviranta",
+    "apiID": 8481641,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Ben Bishop",
+    "apiID": 8471750,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Stephen Johns",
+    "apiID": 8475730,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Tyler Seguin",
+    "apiID": 8475794,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Taylor Fedun",
+    "apiID": 8476166,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Joel L'Esperance",
+    "apiID": 8480769,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Joe Pavelski",
+    "apiID": 8470794,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Blake Comeau",
+    "apiID": 8471260,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Andrej Sekera",
+    "apiID": 8471284,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Anton Khudobin",
+    "apiID": 8471418,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Andrew Cogliano",
+    "apiID": 8471699,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Jamie Benn",
+    "apiID": 8473994,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Sami Vatanen",
+    "apiID": 8475222,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Justin Dowling",
+    "apiID": 8475413,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Mark Pysyk",
+    "apiID": 8475796,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "John Klingberg",
+    "apiID": 8475906,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Jamie Oleksiak",
+    "apiID": 8476467,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Radek Faksa",
+    "apiID": 8476889,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Esa Lindell",
+    "apiID": 8476902,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Jason Dickinson",
+    "apiID": 8477450,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Joel Hanley",
+    "apiID": 8477810,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Roope Hintz",
+    "apiID": 8478449,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Denis Gurianov",
+    "apiID": 8478495,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Tanner Kero",
+    "apiID": 8478528,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Rhett Gardner",
+    "apiID": 8479587,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Jake Oettinger",
+    "apiID": 8479979,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Jason Robertson",
+    "apiID": 8480027,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Miro Heiskanen",
+    "apiID": 8480036,
+    "team": "Dallas Stars"
+  },
+  {
+    "name": "Martin Frk",
+    "apiID": 8476924,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Troy Grosenick",
+    "apiID": 8477234,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Lias Andersson",
+    "apiID": 8480072,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Cole Hults",
+    "apiID": 8480217,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Drake Rymsha",
+    "apiID": 8480221,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Austin Strand",
+    "apiID": 8480467,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Dustin Brown",
+    "apiID": 8470606,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Anze Kopitar",
+    "apiID": 8471685,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Jonathan Quick",
+    "apiID": 8471734,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Drew Doughty",
+    "apiID": 8474563,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Olli Maatta",
+    "apiID": 8476874,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Andreas Athanasiou",
+    "apiID": 8476960,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Kurtis MacDermid",
+    "apiID": 8477073,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Calvin Petersen",
+    "apiID": 8477361,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Adrian Kempe",
+    "apiID": 8477960,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Brendan Lemieux",
+    "apiID": 8477962,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Austin Wagner",
+    "apiID": 8478455,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Christian Wolanin",
+    "apiID": 8478846,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Matt Roy",
+    "apiID": 8478911,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Carl Grundstrom",
+    "apiID": 8479336,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Kale Clague",
+    "apiID": 8479348,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Matt Luff",
+    "apiID": 8479644,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Trevor Moore",
+    "apiID": 8479675,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Jaret Anderson-Dolan",
+    "apiID": 8479994,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Mikey Anderson",
+    "apiID": 8479998,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Gabriel Vilardi",
+    "apiID": 8480014,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Alex Iafallo",
+    "apiID": 8480113,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Sean Walker",
+    "apiID": 8480336,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Blake Lizotte",
+    "apiID": 8481481,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Tobias Bjornfot",
+    "apiID": 8481600,
+    "team": "Los Angeles Kings"
+  },
+  {
+    "name": "Matt Nieto",
+    "apiID": 8476442,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Patrick Marleau",
+    "apiID": 8466139,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Brent Burns",
+    "apiID": 8470613,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Marc-Edouard Vlasic",
+    "apiID": 8471709,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Logan Couture",
+    "apiID": 8474053,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Erik Karlsson",
+    "apiID": 8474578,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Martin Jones",
+    "apiID": 8474889,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Evander Kane",
+    "apiID": 8475169,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Marcus Sorensen",
+    "apiID": 8475834,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Kurtis Gabriel",
+    "apiID": 8476545,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Tomas Hertl",
+    "apiID": 8476881,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Ryan Donato",
+    "apiID": 8477987,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Kevin Labanc",
+    "apiID": 8478099,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Timo Meier",
+    "apiID": 8478414,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Christian Jaros",
+    "apiID": 8478868,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Rudolfs Balcers",
+    "apiID": 8478870,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Noah Gregor",
+    "apiID": 8479393,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Dylan Gambrell",
+    "apiID": 8479580,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Jeffrey Viel",
+    "apiID": 8479705,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Mario Ferraro",
+    "apiID": 8479983,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Radim Simek",
+    "apiID": 8480160,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Josef Korenar",
+    "apiID": 8480373,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "John Leonard",
+    "apiID": 8481077,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Nikolai Knyzhov",
+    "apiID": 8481812,
+    "team": "San Jose Sharks"
+  },
+  {
+    "name": "Boone Jenner",
+    "apiID": 8476432,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Zach Werenski",
+    "apiID": 8478460,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Emil Bemstrom",
+    "apiID": 8480205,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Gustav Nyquist",
+    "apiID": 8474679,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Nathan Gerbe",
+    "apiID": 8471804,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Michael Del Zotto",
+    "apiID": 8474584,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Zac Dalpe",
+    "apiID": 8474610,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Cam Atkinson",
+    "apiID": 8474715,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Scott Harrington",
+    "apiID": 8476449,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Stefan Matteau",
+    "apiID": 8476870,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Joonas Korpisalo",
+    "apiID": 8476914,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Oliver Bjorkstrand",
+    "apiID": 8477416,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Seth Jones",
+    "apiID": 8477495,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Max Domi",
+    "apiID": 8477503,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Ryan MacInnis",
+    "apiID": 8477974,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Elvis Merzlikins",
+    "apiID": 8478007,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Jack Roslovic",
+    "apiID": 8478458,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Gabriel Carlsson",
+    "apiID": 8478506,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Dean Kukan",
+    "apiID": 8478567,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Kevin Stenlund",
+    "apiID": 8478831,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Vladislav Gavrikov",
+    "apiID": 8478882,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Kole Sherwood",
+    "apiID": 8478949,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Patrik Laine",
+    "apiID": 8479339,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Andrew Peeke",
+    "apiID": 8479369,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Gavin Bayreuther",
+    "apiID": 8479945,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Alexandre Texier",
+    "apiID": 8480074,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Eric Robinson",
+    "apiID": 8480762,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Mikko Lehtonen",
+    "apiID": 8482247,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Josh Dunne",
+    "apiID": 8482623,
+    "team": "Columbus Blue Jackets"
+  },
+  {
+    "name": "Joseph Cramarossa",
+    "apiID": 8476390,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Kyle Rau",
+    "apiID": 8476415,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Andrew Hammond",
+    "apiID": 8477202,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Luke Johnson",
+    "apiID": 8477366,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Dakota Mermis",
+    "apiID": 8477541,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Nico Sturm",
+    "apiID": 8481477,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Ryan Suter",
+    "apiID": 8470600,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Zach Parise",
+    "apiID": 8470610,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Nick Bonino",
+    "apiID": 8474009,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Ian Cole",
+    "apiID": 8474013,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Jared Spurgeon",
+    "apiID": 8474716,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Marcus Johansson",
+    "apiID": 8475149,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Marcus Foligno",
+    "apiID": 8475220,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Cam Talbot",
+    "apiID": 8475660,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Mats Zuccarello",
+    "apiID": 8475692,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Nick Bjugstad",
+    "apiID": 8475760,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Victor Rask",
+    "apiID": 8476437,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Jonas Brodin",
+    "apiID": 8476463,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Brad Hunt",
+    "apiID": 8476779,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Matt Dumba",
+    "apiID": 8476856,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Carson Soucy",
+    "apiID": 8477369,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Ryan Hartman",
+    "apiID": 8477451,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Kevin Fiala",
+    "apiID": 8477942,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Kaapo Kahkonen",
+    "apiID": 8478039,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Jordan Greenway",
+    "apiID": 8478413,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Joel Eriksson Ek",
+    "apiID": 8478493,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Kirill Kaprizov",
+    "apiID": 8478864,
+    "team": "Minnesota Wild"
+  },
+  {
+    "name": "Bryan Little",
+    "apiID": 8473412,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Nathan Beaulieu",
+    "apiID": 8476470,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Nate Thompson",
+    "apiID": 8470775,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Blake Wheeler",
+    "apiID": 8471218,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Paul Stastny",
+    "apiID": 8471669,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Trevor Lewis",
+    "apiID": 8473453,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Mathieu Perreault",
+    "apiID": 8473618,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Jordie Benn",
+    "apiID": 8474818,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Derek Forbort",
+    "apiID": 8475762,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Laurent Brossoit",
+    "apiID": 8476316,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Dylan DeMelo",
+    "apiID": 8476331,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Adam Lowry",
+    "apiID": 8476392,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Mark Scheifele",
+    "apiID": 8476460,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Connor Hellebuyck",
+    "apiID": 8476945,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Tucker Poolman",
+    "apiID": 8477359,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Andrew Copp",
+    "apiID": 8477429,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Josh Morrissey",
+    "apiID": 8477504,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Nikolaj Ehlers",
+    "apiID": 8477940,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Kyle Connor",
+    "apiID": 8478398,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Jansen Harkins",
+    "apiID": 8478424,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Mason Appleton",
+    "apiID": 8478891,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Sami Niku",
+    "apiID": 8478915,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Logan Stanley",
+    "apiID": 8479378,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Pierre-Luc Dubois",
+    "apiID": 8479400,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Neal Pionk",
+    "apiID": 8480145,
+    "team": "Winnipeg Jets"
+  },
+  {
+    "name": "Jordan Gross",
+    "apiID": 8480913,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Alex Goligoski",
+    "apiID": 8471274,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Niklas Hjalmarsson",
+    "apiID": 8471769,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Derick Brassard",
+    "apiID": 8473544,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Phil Kessel",
+    "apiID": 8473548,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Jason Demers",
+    "apiID": 8474218,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Oliver Ekman-Larsson",
+    "apiID": 8475171,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Darcy Kuemper",
+    "apiID": 8475311,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Johan Larsson",
+    "apiID": 8475728,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Tyler Pitlick",
+    "apiID": 8475752,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Antti Raanta",
+    "apiID": 8477293,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "John Hayden",
+    "apiID": 8477401,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Jordan Oesterle",
+    "apiID": 8477851,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Nick Schmaltz",
+    "apiID": 8477951,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Christian Dvorak",
+    "apiID": 8477989,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Michael Bunting",
+    "apiID": 8478047,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Dryden Hunt",
+    "apiID": 8478211,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Christian Fischer",
+    "apiID": 8478432,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Lawson Crouse",
+    "apiID": 8478474,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Adin Hill",
+    "apiID": 8478499,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Conor Garland",
+    "apiID": 8478856,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Clayton Keller",
+    "apiID": 8479343,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Jakob Chychrun",
+    "apiID": 8479345,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Ilya Lyubushkin",
+    "apiID": 8480950,
+    "team": "Arizona Coyotes"
+  },
+  {
+    "name": "Ryan Reaves",
+    "apiID": 8471817,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Nick Holden",
+    "apiID": 8474207,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Tomas Jurco",
+    "apiID": 8476430,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Marc-Andre Fleury",
+    "apiID": 8470594,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Max Pacioretty",
+    "apiID": 8474157,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Alec Martinez",
+    "apiID": 8474166,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Alex Pietrangelo",
+    "apiID": 8474565,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Brayden McNabb",
+    "apiID": 8475188,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Reilly Smith",
+    "apiID": 8475191,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Robin Lehner",
+    "apiID": 8475215,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Mark Stone",
+    "apiID": 8475913,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "William Karlsson",
+    "apiID": 8476448,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Jonathan Marchessault",
+    "apiID": 8476539,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Chandler Stephenson",
+    "apiID": 8476905,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Mattias Janmark",
+    "apiID": 8477406,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Shea Theodore",
+    "apiID": 8477447,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "William Carrier",
+    "apiID": 8477478,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Tomas Nosek",
+    "apiID": 8477931,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Alex Tuch",
+    "apiID": 8477949,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Dylan Sikura",
+    "apiID": 8478106,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Keegan Kolesar",
+    "apiID": 8478434,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Nicolas Roy",
+    "apiID": 8478462,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Dylan Coghlan",
+    "apiID": 8479639,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Nicolas Hague",
+    "apiID": 8479980,
+    "team": "Vegas Golden Knights"
+  },
+  {
+    "name": "Zach Whitecloud",
+    "apiID": 8480727,
+    "team": "Vegas Golden Knights"
+  }
+]

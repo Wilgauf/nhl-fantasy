@@ -1,0 +1,50 @@
+    <div className="App">
+    <Router>
+      <div>
+        <Route exact path="/" render={RenderHomePage} />
+        <Route exact path="/login" render={RenderLoginPage} />
+        <Route exact path="/signup" component={SignupPage} />
+        <PrivateRoute path="/team" component={TeamPage} isLoggedIn={isLoggedIn} user={user} handleLogout={handleLogout} />
+      </div>
+    </Router>
+  </div>
+
+
+TEAMPAGE:
+    fs.readFile('../Data_scraper/playerslist.json','utf8', (err, jsonString)=>{
+    if (err){
+      console.log(err)
+      return
+    }
+    console.log('file read')
+  })
+
+Current day's schedule from api: not sure how to pull tomorrows...
+  https://statsapi.web.nhl.com/api/v1/schedule/
+
+
+  <form onSubmit={editTeamName}>  
+        <Link to={`/team/${team.id}`}>Manage {team.name} </Link>
+        <input type='text' placeholder='Want to change your team name?' name='name'/>
+        <Button variant="contained" onClick={editTeamName}>Edit Name</Button>
+      </form> 
+
+
+        const editTeamName = async (event) =>{
+    event.preventDefault()
+    let newTeamInfo = {
+      'name': event.target.name.value,
+      'owner': props.user.id,
+      'teamID': teams[0].id
+    }
+    let token = sessionStorage.getItem("auth-user")
+    let response = await editTeam(token, newTeamInfo);
+    let data = await response.json();
+    if(data.error){
+      console.log('Team name could not be updated: '+ data.error)
+    }
+    else {
+      let newTeam = teams[0]
+      newTeam.name = newTeamInfo.name
+    }
+  }
